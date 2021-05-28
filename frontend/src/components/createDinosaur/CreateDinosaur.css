@@ -1,0 +1,19 @@
+.create-dinosaur {
+    padding: 1rem;
+}
+
+
+.create-dinosaur input {
+    margin-right: 0.5rem;
+    border-radius: 2px;
+}
+
+.create-dinosaur input[type="submit"] {
+    background-color: rgb(96, 209, 96);
+    cursor: pointer;
+}
+
+.create-dinosaur input[type="submit"]:hover {
+    background-color: rgb(131, 169, 139);
+
+}
